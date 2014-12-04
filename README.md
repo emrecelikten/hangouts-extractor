@@ -5,7 +5,7 @@ A simple tool for extracting text messages from Google Hangouts JSON data. Alpha
 
 Sample usage: 
 
-    python extract.py "John Doe" john-log.txt
+    python extract.py Hangouts.json "John Doe" john-log.txt
 
 Extracts all messages from conversations that contain only two people with the format
 
